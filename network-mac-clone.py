@@ -2,8 +2,6 @@
 #	Available at https://github.com/andymtruman/network-mac-clone.git under the GNU public Licence
 
 
-#	Thanks to http://coderstalk.blogspot.co.uk/2010/02/create-network-interfaces-list-using.html for network interface code
-
 import nmap # import python-nmap, available at http://xael.org/pages/python-nmap-en.html. My thanks to Alexandre Norman for his fantastic work.
 import netifaces # import netifaces, available at https://bitbucket.org/al45tair/netifaces. My thanks to Alastair Houghton for his fantastic work.
 import subprocess
